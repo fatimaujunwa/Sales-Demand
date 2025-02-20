@@ -83,6 +83,7 @@ Using **historical sales data** from **multiple retail stores**, I built a **Tab
 
 ---
 
+
 ### **5️⃣ Inventory Risk Levels – Where Do We Need Better Planning?**  
 📊 **27% of stores are at HIGH RISK of inventory mismanagement.**  
 
@@ -131,8 +132,8 @@ Using **historical sales data** from **multiple retail stores**, I built a **Tab
 ## **📂 How to Use This Project**
 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-github/retail-sales-dashboard.git
-cd retail-sales-dashboard
+git clone https://github.com/fatimaujunwa/Sales-Demand.git
+cd Sales-Demand
 ```
 2️⃣ **View the Tableau Dashboard**
 - Open **Tableau Public**  
@@ -151,14 +152,6 @@ cd retail-sales-dashboard
 📌 **Retail analytics is the key to optimizing sales & preventing inventory losses.**  
 📌 **With machine learning and BI tools, we can forecast trends & drive better decision-making.**  
 
-🚀 **If you found this useful, give this repo a ⭐ star & connect with me on LinkedIn!**  
 
-📧 **Contact:** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🔗 **GitHub:** [github.com/your-profile](https://github.com/your-profile)  
 
-🔥 **Now this README is structured for maximum recruiter appeal!** 🚀  
 
----
-
-💡 *Let me know if you’d like any refinements or additional insights! 🎯*
