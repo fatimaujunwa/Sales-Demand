@@ -142,7 +142,8 @@ cd retail-sales-dashboard
 🔗 **[View the Live Tableau Dashboard](your_tableau_dashboard_link_here)**  
 
 📸 **Dashboard Preview:**  
-![Retail Sales Dashboard]([your_dashboard_screenshot_link_here](https://github.com/user-attachments/assets/45ec0bc3-91cb-4258-9e72-c9f9f485b5b9))  
+![Retail Sales Dashboard](https://github.com/user-attachments/assets/45ec0bc3-91cb-4258-9e72-c9f9f485b5b9)
+
 
 ---
 
